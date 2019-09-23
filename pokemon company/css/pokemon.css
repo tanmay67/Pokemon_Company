@@ -1,0 +1,55 @@
+.carousel-caption{
+    width: 100%;
+    left: 0;
+}
+p{
+    margin-bottom: 4px;
+}
+
+
+
+.bd-example{
+    padding-bottom: 50px;
+}
+
+.employee{
+    text-align: center;
+}
+
+.e{
+    padding: 20px;
+    padding-top:20px;
+}
+
+.e h1{
+    font-family: 'Lobster', cursive;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+    z-index: 20;
+    background-color: azure;
+    opacity: .6;
+}
+
+.im{
+    margin-left: 10px;
+    border-radius: 40px;
+}
+
+.con{
+    text-align: center;
+    margin-top: 120px;
+    }
+
+.content2{
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
